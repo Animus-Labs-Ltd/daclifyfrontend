@@ -8,7 +8,7 @@
               <q-img
                 style="width: 20vw; max-width:135px; min-width:100px; filter: brightness(0) invert(1);"
                 contain
-                src="~assets/animus-logo-small.png"
+                src="~assets/daclify-logo-small-white.png"
               />
           </th>
           <th class="text-center bg-grey-9">
